@@ -1,0 +1,12 @@
+import math
+print("Enter x")
+x = input()
+x =int (x)
+print("Enter y")
+y = input()
+y= int(y)
+print("x raised to the power y is")
+print(x**y)
+print("log(base2) of x is")
+print(math.log(x,2))
+print("79474")
